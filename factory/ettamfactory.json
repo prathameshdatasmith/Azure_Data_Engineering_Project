@@ -1,0 +1,9 @@
+{
+	"name": "ettamfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6aa51ec3-bf2d-4bd3-8c27-81786ffac356",
+		"tenantId": "37bf4aa5-abe9-4248-80ff-c816f1733c4a"
+	}
+}
